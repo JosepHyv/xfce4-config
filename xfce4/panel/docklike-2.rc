@@ -1,0 +1,13 @@
+[user]
+pinned=chromium;kitty;code;runjs;spotify;sublime_text;
+forceIconSize=false
+noWindowsListIfSingle=true
+onlyDisplayVisible=true
+onlyDisplayScreen=true
+showWindowCount=true
+indicatorStyle=1
+inactiveIndicatorStyle=1
+indicatorOrientation=1
+indicatorColorFromTheme=true
+keyAloneActive=true
+showPreviews=true
